@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">PracticaParcelable</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="register_text">Registrarse</string>
+    <string name="name_hint">Nombre</string>
+    <string name="last_name_hint">Apellido</string>
+    <string name="welcome_text">¡Bienvenido %1$s %2$s!</string>
+</resources>
